@@ -20,3 +20,4 @@ A simple Flask-based web application that displays real-time weather information
 ```bash
 git clone https://github.com/your-username/weather-app.git
 
+
